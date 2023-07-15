@@ -11,10 +11,12 @@
 <body>
 <div class="sidebar">
     <ul>
+
         <li><a href="#"><i class="fas fa-user"></i>Profile</a></li>
         <li><a href="#"><i class="fas fa-home"></i>Home</a></li>
-        <li><a href="#"><i class="fas fa-shopping-cart"></i>My Cart</a></li>
-        <li><a href="#"><i class="fas fa-clipboard-list"></i>My Orders</a></li>
+        <li><a href="#"><i class="fas fa-clipboard-list"></i>My Products</a></li>
+        <li><a href="#"><i class="fas fa-shopping-cart"></i>Pending Orders</a></li>
+        <li><a href="#"><i class="fas fa-clipboard-check"></i>Confirmed Orders</a></li>
         <li><a href="#"><i class="fas fa-sign-out-alt"></i>Sign Out</a></li>
     </ul>
 </div>
